@@ -3,6 +3,7 @@
 Switch what you share in Teams (or Zoom, Meet, Slack …) with keyboard shortcuts – without stopping and restarting the share.
 
 <!-- INTRO VIDEO: drag BetterScreenSharing-intro-en.mp4 onto this line in GitHub's web editor -->
+https://github.com/user-attachments/assets/9c7519e4-4283-4a5b-9bf3-e2c5802b9898
 
 **[⬇ Download BetterScreenSharing for macOS](https://github.com/Gorian90/BetterScreenSharing/releases/latest/download/BetterScreenSharing.zip)** · macOS 14 or later · Apple Silicon and Intel · free
 
