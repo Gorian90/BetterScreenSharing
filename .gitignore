@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager / byggresultat
+.build/
+build/
+*.app
+
+# Signering – privata nycklar och nyckelringar
+signing/*.keychain-db
+signing/*.key
+signing/*.p12
+signing/.fl*
+
+# Lokala appinställningar (exporterade inställningar, diagnostik, renderingsutdata)
+*.plist
+!Resources/Info.plist
+*.log
+*.part
