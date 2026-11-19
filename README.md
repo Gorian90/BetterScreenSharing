@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/logo-dark.svg">
-    <img src="docs/logo-light.svg" width="620" alt="BetterScreenSharing – switch what you share in meetings, without stopping the share">
+    <img src="docs/logo-light.svg" width="580" alt="BetterScreenSharing">
   </picture>
 </p>
 
