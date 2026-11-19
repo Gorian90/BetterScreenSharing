@@ -9,7 +9,9 @@ Switch what you share in Teams, Zoom, Meet or Slack with a keystroke – without
 
 https://github.com/user-attachments/assets/9c7519e4-4283-4a5b-9bf3-e2c5802b9898
 
-**[⬇ Download for macOS](https://github.com/Gorian90/BetterScreenSharing/releases/latest/download/BetterScreenSharing.zip)** · macOS 14 or later · Apple Silicon and Intel · free
+## Download
+
+- [BetterScreenSharing for macOS](https://github.com/Gorian90/BetterScreenSharing/releases/download/v1.0/BetterScreenSharing.zip) – macOS 14 or later (Apple Silicon and Intel), version 1.0, released 2026-11-19
 
 ## How it works
 
